@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PersonaPuedeVotar",
+            "request": "launch",
+            "mainClass": "Aplicacion_de_desiciones.PersonaPuedeVotar",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "TarifaEstacionamiento",
+            "request": "launch",
+            "mainClass": "Aplicacion_de_desiciones.TarifaEstacionamiento",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "ConversionTemperatura",
+            "request": "launch",
+            "mainClass": "Aplicacion_de_desiciones.ConversionTemperatura",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "convensionTemperatura",
+            "request": "launch",
+            "mainClass": "Aplicacion_de_desiciones.convensionTemperatura",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "tamañoCamiseta",
+            "request": "launch",
+            "mainClass": "Aplicacion_de_desiciones.tamañoCamiseta",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "evaluacionCalificacion",
+            "request": "launch",
+            "mainClass": "Aplicacion_de_desiciones.evaluacionCalificacion",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "sistemaDescuentos",
+            "request": "launch",
+            "mainClass": "Aplicacion_de_desiciones.sistemaDescuentos",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "tipoTriangulo",
+            "request": "launch",
+            "mainClass": "Aplicacion_de_desiciones.tipoTriangulo",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "calculadoraBasica",
+            "request": "launch",
+            "mainClass": "Aplicacion_de_desiciones.calculadoraBasica",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1",
+            "request": "launch",
+            "mainClass": "Aplicacion_de_desiciones.Ejercicio1",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_12_CuatroDigitos",
+            "request": "launch",
+            "mainClass": "Soluciones_taller1.Ejercicio_12_CuatroDigitos",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_11_DigitosPares",
+            "request": "launch",
+            "mainClass": "Soluciones_taller1.Ejercicio_11_DigitosPares",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_10_DigitosIguales",
+            "request": "launch",
+            "mainClass": "Soluciones_taller1.Ejercicio_10_DigitosIguales",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_9_DigitoMultiplo",
+            "request": "launch",
+            "mainClass": "Soluciones_taller1.Ejercicio_9_DigitoMultiplo",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_8_DigitosPrimos",
+            "request": "launch",
+            "mainClass": "Soluciones_taller1.Ejercicio_8_DigitosPrimos",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_7_NumeroNegativoPrimo",
+            "request": "launch",
+            "mainClass": "Soluciones_taller1.Ejercicio_7_NumeroNegativoPrimo",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_6_NumeroPrimo",
+            "request": "launch",
+            "mainClass": "Soluciones_taller1.Ejercicio_6_NumeroPrimo",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_5_DigitosPares",
+            "request": "launch",
+            "mainClass": "Soluciones_taller1.Ejercicio_5_DigitosPares",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercico_4_SumaNumeros",
+            "request": "launch",
+            "mainClass": "Soluciones_taller1.Ejercico_4_SumaNumeros",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_3_NumeroNegativo",
+            "request": "launch",
+            "mainClass": "Soluciones_taller1.Ejercicio_3_NumeroNegativo",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio_2_Numero3Digitos",
+            "request": "launch",
+            "mainClass": "Soluciones_taller1.Ejercicio_2_Numero3Digitos",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2DireccionEdadNombre",
+            "request": "launch",
+            "mainClass": "Soluciones_taller1.Ejercicio2DireccionEdadNombre",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioNumeroDetermina4",
+            "request": "launch",
+            "mainClass": "Soluciones_taller1.EjercicioNumeroDetermina4",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        },
+        {
+            "type": "java",
+            "name": "practica",
+            "request": "launch",
+            "mainClass": "Soluciones_taller1.practica",
+            "projectName": "Java_Instru_Yesid_Villamizar_88e7899c"
+        }
+    ]
+}
